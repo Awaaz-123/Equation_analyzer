@@ -1,4 +1,4 @@
-# Functional Equation Parser & Analyzer.
+# Functional Equation Parser & Analyzer
 
 A purely functional Python equation parser and analyzer built with **higher-order functions**, **iterators**, and **generators** — no classes for logic.
 
